@@ -14,7 +14,7 @@ h1 {
 
 .sidebar {
   position: absolute;
-  right: 0;
+  right: 10%;
   width: 15%;
   background-color: pink;
   text-align: center;
